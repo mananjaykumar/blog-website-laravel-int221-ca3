@@ -29,7 +29,7 @@
         <!-- sidebar -->
         <div class="sidebar">
             <span class="closeButton">&times;</span>
-            <p class="brand-title"><a href="">Alphayo Blog</a></p>
+            <p class="brand-title"><a href="">Blog Website</a></p>
 
             <div class="side-links">
                 <ul>
@@ -63,7 +63,7 @@
                     <a href=""><i class="fab fa-twitter"></i></a>
                 </div>
 
-                <small>&copy 2021 Alphayo Blog</small>
+                <small>&copy 2021 Blog Website</small>
             </footer>
         </div>
         <!-- Menu Button -->
@@ -82,7 +82,7 @@
                 <a href=""><i class="fab fa-instagram"></i></a>
                 <a href=""><i class="fab fa-twitter"></i></a>
             </div>
-            <small>&copy 2021 Alphayo Blog</small>
+            <small>&copy 2021 Blog Website</small>
         </footer>
     </div>
 
